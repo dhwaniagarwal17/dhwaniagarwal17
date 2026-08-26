@@ -13,7 +13,6 @@ Currently, I’m focused on strengthening my software engineering fundamentals w
 ## About Me
 
 * Pursuing **B.E. in Computer Engineering** at Thapar Institute of Engineering & Technology
-* **CGPA: 9.03/10.00**
 * Experience developing and deploying full-stack web applications
 * Worked on a production website for a real client through **TalkLaws**
 * Technical Intern at **Sedax Data Solutions**
