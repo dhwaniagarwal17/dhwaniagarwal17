@@ -53,7 +53,7 @@ A full-stack corporate legal advisory platform developed and deployed for a real
 
 **React · Next.js · Node.js · Express.js · MongoDB**
 
-[View Project](https://talklaws.com/) · [Portfolio](https://dhwani-portfolio-fawn.vercel.app/)
+[View Project](https://talklaws.in/) · [Portfolio](https://dhwani-portfolio-fawn.vercel.app/)
 
 ---
 
